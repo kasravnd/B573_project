@@ -1,0 +1,18 @@
+
+Statistical Analysis Results:
+----------------------------
+Sample Sizes:
+    Pathogenic variants: 137
+    Benign variants: 273
+
+Descriptive Statistics:
+    Pathogenic - Mean: 25.18, Median: 25.35, STD: 5.45
+    Benign - Mean: 14.94, Median: 14.83, STD: 4.62
+
+Statistical Tests:
+    Mann-Whitney U test:
+        Statistic: 34449.00
+        P-value: 0.0000
+    
+Effect Size:
+    Cohen's d: 2.08
